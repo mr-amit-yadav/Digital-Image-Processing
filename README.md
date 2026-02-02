@@ -1,2 +1,3 @@
 # Digital-Image-Processing
 Feel Free to use it....
+This Contains all the Practicals that I have learned for Digital Image Processing
